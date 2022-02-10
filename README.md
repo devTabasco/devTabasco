@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm hard at work now planting grass on github. 
+I'm hard at work now planting grass on github.  
 I still have so much to learn, but I'm working hard, so please help me a lot!
 
 A few things about me...
