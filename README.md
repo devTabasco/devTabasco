@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- I'm working hard on github now with grass.
-- I still have so much to learn, but I'm working hard, so please help me a lot!
+I'm working hard on github now with grass.  
+I still have so much to learn, but I'm working hard, so please help me a lot!
 
 A few things about me...
 <!--
