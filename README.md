@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm hard at work now planting grass on github.  
+I'm hard at work now planting grass on github. 
 I still have so much to learn, but I'm working hard, so please help me a lot!
 
 A few things about me...
@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Korea Railroad Research Institute(KRRI)
+- 📚 I’m currently studying on Yonsei university
 - 🌱 I’m currently learning Swift for iOS mobile app development
 - 📫 How to reach me: changyong0605@gmail.com
