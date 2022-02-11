@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 - 📚 I’m currently studying on Yonsei university
 - 🌱 I’m currently learning Swift for iOS mobile app development
 - 📫 How to reach me: changyong0605@gmail.com
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=6810779s&show_icons=true&theme=prussian)
