@@ -7,7 +7,7 @@ I still have so much to learn, but I'm working hard, so please help me a lot!
 
 #
 
-<h3>A few things about me...<h3>
+###A few things about me...
 <!--
 **devTabasco/devTabasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 #
 
-<h3>💻Tech Stack📱</h3>
+###💻Tech Stack📱
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></br>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=#2C2255"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=#007ACC"/></br>
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 #
 
-<h3>👨🏻‍🎨Design Stack🎨</h3>
+###👨🏻‍🎨Design Stack🎨
 
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat&logo=Adobe XD&logoColor=white"/>
 
