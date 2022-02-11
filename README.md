@@ -7,7 +7,7 @@ I still have so much to learn, but I'm working hard, so please help me a lot!
 
 #
 
-<h2>A few things about me...</h2>
+###A few things about me...
 <!--
 **devTabasco/devTabasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
