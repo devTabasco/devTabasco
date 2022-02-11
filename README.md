@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Swift for iOS mobile app development
 - 📫 How to reach me: changyong0605@gmail.com
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=devTabasco&show_icons=true&theme=prussian) 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=devTabasco&show_icons=true&theme=vue) 
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devTabasco&layout=compact&theme=prussian)-->
