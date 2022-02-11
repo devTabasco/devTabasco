@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 
 <h3>👨🏻‍🎨Design Stack🎨</h3>
 
-<img src="https://img.shields.io/badge/Adobe Photoshop-white?style=flat&logo=Adobe Photoshop&logoColor=#31A8FF"/> <img src="https://img.shields.io/badge/Adobe Illustrator-white?style=flat&logo=Adobe Illustrator&logoColor=#FF9A00"/> <img src="https://img.shields.io/badge/Adobe XD-white?style=flat&logo=Adobe XD&logoColor=#FF61F6"/>
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat&logo=Adobe XD&logoColor=white"/>
 
 ...
 
-<img src="https://img.shields.io/badge/Velog-#20C997?style=flat&logo=Velog&logoColor=white"/>
+<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
 
 #
 
