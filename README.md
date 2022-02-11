@@ -1,3 +1,5 @@
+<div align="center">
+
 ### Hi there 👋
 
 I'm hard at work now planting grass on github.  
@@ -28,3 +30,5 @@ Here are some ideas to get you started:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=devTabasco&show_icons=true&theme=vue) 
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devTabasco&layout=compact&theme=prussian)-->
+
+</div>
