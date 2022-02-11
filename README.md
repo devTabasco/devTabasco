@@ -7,7 +7,7 @@ I still have so much to learn, but I'm working hard, so please help me a lot!
 
 #
 
-A few things about me...
+<h3>A few things about me...<h3>
 <!--
 **devTabasco/devTabasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📚 I’m currently studying on Yonsei university
-🌱 I’m currently learning Swift for iOS mobile app development
-📫 How to reach me: changyong0605@gmail.com
+📚 I’m currently studying on Yonsei university<br/>
+🌱 I’m currently learning Swift for iOS mobile app development<br/>
+📫 How to reach me: changyong0605@gmail.com<br/>
 
 #
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat&logo=Adobe XD&logoColor=white"/>
 
-<h2>...<h2>
+<h3>...<h3>
 
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
 
