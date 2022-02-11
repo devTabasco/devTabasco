@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Swift for iOS mobile app development
 - 📫 How to reach me: changyong0605@gmail.com
 
-<img src="https://img.shields.io/badge/{Swift}-{배경 색깔}?style={스타일}&logo={Swift}&logoColor={#F05138}"/>
-
+<img src="https://img.shields.io/badge/Swift-white?style=flat&logo=Swift&logoColor=#F05138"/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=devTabasco&show_icons=true&theme=vue) 
 
