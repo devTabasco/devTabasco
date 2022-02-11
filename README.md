@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <h3>👨🏻‍🎨Design Stack🎨</h3>
 
-<img src="https://img.shields.io/badge/Adobe Photoshop-white?style=flat&logo=Adobe Photoshop&logoColor=#31A8FF"/> <img src="https://img.shields.io/badge/Adobe Illustrator-white?style=flat&logo=Adobe Illustrator&logoColor=#FF9A00"/>
+<img src="https://img.shields.io/badge/Adobe Photoshop-white?style=flat&logo=Adobe Photoshop&logoColor=#31A8FF"/> <img src="https://img.shields.io/badge/Adobe Illustrator-white?style=flat&logo=Adobe Illustrator&logoColor=#FF9A00"/> <img src="https://img.shields.io/badge/Adobe XD-white?style=flat&logo=Adobe XD&logoColor=#FF61F6"/>
 
 <hr height: 2px;>
 
