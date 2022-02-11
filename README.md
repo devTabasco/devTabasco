@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <h3>💻Teck Stack📱</h3>
 
-<img src="https://img.shields.io/badge/Swift-white?style=flat&logo=Swift&logoColor=#F05138"/> <img src="https://img.shields.io/badge/Xcode-white?style=flat&logo=Xcode&logoColor=#147EFB"/> <img src="https://img.shields.io/badge/MySQL-green?style=flat&logo=MySQL&logoColor=#4479A1"/>
+<img src="https://img.shields.io/badge/Swift-white?style=flat&logo=Swift&logoColor=#F05138"/> <img src="https://img.shields.io/badge/Xcode-white?style=flat&logo=Xcode&logoColor=#147EFB"/> <img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=#4479A1"/>
 
 <hr height: 2px;>
 
