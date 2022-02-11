@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=#2C2255"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=#007ACC"/></br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=#181717"/>
 
-<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=#181717"/>
-
 #
 
 <h3>👨🏻‍🎨Design Stack🎨</h3>
