@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: changyong0605@gmail.com
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=devTabasco&show_icons=true&theme=prussian)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devTabasco&layout=compact&theme=prussian)
