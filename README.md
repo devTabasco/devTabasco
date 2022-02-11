@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 <h3>🔥Teck Stack🔥</h3>
 
 <img src="https://img.shields.io/badge/Swift-white?style=flat&logo=Swift&logoColor=#F05138"/>
+<img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=#4479A1"/>
+
+<hr>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=devTabasco&show_icons=true&theme=vue) 
 
