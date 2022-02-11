@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 <h3>💻Teck Stack📱</h3>
 
-<img src="https://img.shields.io/badge/Swift-white?style=flat&logo=Swift&logoColor=#F05138"/> <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=#007396"/></br>
-<img src="https://img.shields.io/badge/Xcode-white?style=flat&logo=Xcode&logoColor=#147EFB"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=#2C2255"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=#007ACC"/></br>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></br>
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=#2C2255"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=#007ACC"/></br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=#181717"/>
 
 #
