@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 📚 I’m currently studying on Yonsei university<br/>
-🌱 I’m currently learning Swift for iOS mobile app development<br/>
+🌱 I am currently studying Web FE(Front-End) development knowledge<br/>
 📫 How to reach me: changyong0605@gmail.com<br/>
 
 #
