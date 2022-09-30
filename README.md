@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📚 I’m currently studying on Yonsei university<br/>
-🌱 I am currently studying Web FE(Front-End) development knowledge<br/>
+📚 I’m studying on Yonsei university<br/>
+🌱 I am currently studying Web Full-Stack development knowledge<br/>
 📫 How to reach me: changyong0605@gmail.com<br/>
 
 #
